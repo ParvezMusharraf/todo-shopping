@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-shopping/static/css/main.a63d950a.css",
+    "main.js": "/todo-shopping/static/js/main.ea8b63fa.js",
+    "index.html": "/todo-shopping/index.html",
+    "main.a63d950a.css.map": "/todo-shopping/static/css/main.a63d950a.css.map",
+    "main.ea8b63fa.js.map": "/todo-shopping/static/js/main.ea8b63fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63d950a.css",
+    "static/js/main.ea8b63fa.js"
+  ]
+}
